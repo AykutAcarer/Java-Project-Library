@@ -9,7 +9,7 @@ I can search the Book's name and take Information about that Books.
 #Technologies
 
 1. GUI
-  * Java Swing API
+  * @Java Swing API
 
 2. Backend
   * JDBC Framework
