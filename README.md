@@ -1,10 +1,13 @@
 # Desktop Application - Java-Project-Library
 
-## Introduction
+## Project Description
 
 In this project i try to show that how can connect an application with a database using JDBC frameworks. 
 With this Application; I can list the Books from my Database and add, delete also update Books on my Database.
 I can search the Book's name and take Information about that Books.
+
+## Development Environment
+* Eclipse IDE for Enterprise Java and Web Developers
 
 ## Technologies
 
@@ -16,6 +19,10 @@ I can search the Book's name and take Information about that Books.
  
 #### 3. Database and DBMS
   * MySQL
+
+## Applied Themes
+* CRUD Operations with JDBC
+* Creating JFrame with Swing Api
 
 ## Snapshot
 
