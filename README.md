@@ -7,7 +7,7 @@ With this Application; I can list the Books from my Database and add, delete als
 I can search the Book's name and take Information about that Books.
 
 ## Development Environment
-* Eclipse IDE for Enterprise Java and Web Developers
+* Eclipse IDE Standard Edition for Java Devolopers
 
 ## Technologies
 
